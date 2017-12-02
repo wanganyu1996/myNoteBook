@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [目录](README.md)
+* [简单排序算法](chapter1.md)
 
